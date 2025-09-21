@@ -11,11 +11,3 @@ Este proyecto contiene un script en Python diseñado para analizar datos genómi
 
 El programa permite procesar archivos de entrada en formato tabular y generar resultados en pantalla o en archivos de salida según los parámetros elegidos.
 
----
-
-## ▶️ Uso
-
-Ejecuta el script principal desde una terminal:
-
-```bash
-python genomos.py --input archivo.xlsx --txt resultados.txt
