@@ -13,19 +13,9 @@ El programa permite procesar archivos de entrada en formato tabular y generar re
 
 ---
 
-## ⚙️ Instalación
-Clona este repositorio y asegúrate de tener Python 3.8+ instalado junto con las librerías requeridas:
-
-```bash
-git clone https://github.com/tu_usuario/genomos_app_python.git
-cd genomos_app_python
-pip install -r requirements.txt
-```
----
-
 ## ▶️ Uso
 
-Ejecuta el script principal desde la terminal:
+Ejecuta el script principal desde una terminal:
 
 ```bash
-python genomos_app.py --input archivo.tsv --txt resultados.txt
+python genomos.py --input archivo.xlsx --txt resultados.txt
