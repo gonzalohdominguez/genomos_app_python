@@ -20,3 +20,10 @@ Clona este repositorio y asegúrate de tener Python 3.8+ instalado junto con las
 git clone https://github.com/tu_usuario/genomos_app_python.git
 cd genomos_app_python
 pip install -r requirements.txt
+
+## ▶️ Uso
+
+Ejecuta el script principal desde la terminal:
+
+```bash
+python genomos_app.py --input archivo.tsv --txt resultados.txt
